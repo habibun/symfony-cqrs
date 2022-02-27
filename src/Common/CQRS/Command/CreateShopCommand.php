@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace App\Common\CQRS\Command;
+
 use App\Common\CQRS\Command;
 
 final class CreateShopCommand implements Command

@@ -2,7 +2,8 @@
 
 declare(strict_types=1);
 
-use App\Common\CQRS\Command;
+namespace App\Common\CQRS\CommandHandler;
+
 use App\Common\CQRS\CommandHandler;
 
 final class CreateShopHandler implements CommandHandler

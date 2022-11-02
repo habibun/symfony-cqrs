@@ -10,7 +10,6 @@ Implements CQRS in symfony
 Read [CQRS Docs](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 
 Resources  
- - [CQRS](https://martinfowler.com/bliki/CQRS.html) by Martin Fowler
  - [CQRS Software Architecture Pattern: The Good, the Bad, and the Ugly](https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf)
  - [`patrykwozinski`](https://github.com/habibun/cqrs/tree/messenger)
      - [Symfony Messenger component for CQRS applications](https://patrykwozinski.medium.com/symfony-messenger-component-for-cqrs-applications-4f450b2a9124) 

@@ -12,7 +12,6 @@ Read [CQRS Docs](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 Resources  
  - [`patrykwozinski`](https://github.com/habibun/cqrs/tree/messenger)
      - [Symfony Messenger component for CQRS applications](https://patrykwozinski.medium.com/symfony-messenger-component-for-cqrs-applications-4f450b2a9124) 
- - [`messenger`](https://github.com/habibun/cqrs/tree/messenger)
 
 
 ## License

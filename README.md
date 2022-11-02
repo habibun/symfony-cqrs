@@ -18,4 +18,3 @@ The code is licensed under the [MIT License](https://github.com/habibun/cqrs/blo
 
 
 [1]: https://github.com/habibun/cqrs/tree/patrykwozinski
-[2]: https://github.com/habibun/cqrs/tree/messenger

@@ -2,9 +2,9 @@
 CQRS with Symfony
 
 
-| Repository Branch                      | Messenger Version | Symfony Version | PHP Version     |
-|----------------------------------------|-------------------|-----------------|-----------------|
-| [patrykwozinski][[patrykwozinski-url]] | `4.x`             | `4.x`           | `7.4` or higher |
+| Repository Branch                | Messenger Version | Symfony Version | PHP Version     |
+|----------------------------------|-------------------|-----------------|-----------------|
+| [patrykwozinski][patrykwozinski] | `4.x`             | `4.x`           | `7.4` or higher |
 
 
 Read [CQRS Docs](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)

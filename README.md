@@ -1,5 +1,6 @@
 # cqrs
-Implements CQRS in symfony
+CQRS with Symfony
+
 
 | Repository Branch                  | Messenger Version | Symfony Version | PHP Version     |
 |------------------------------------|-------------------|-----------------|-----------------|

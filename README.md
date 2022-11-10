@@ -18,5 +18,5 @@ Resources
 The code is licensed under the [MIT License][license]
 
 
-[patrykwozinski-url]: https://github.com/habibun/symfony-cqrs/tree/patrykwozinski
+[patrykwozinski]: https://github.com/habibun/symfony-cqrs/tree/patrykwozinski
 [license]: https://github.com/habibun/symfony-cqrs/blob/main/LICENSE

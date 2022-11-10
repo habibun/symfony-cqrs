@@ -1,4 +1,4 @@
-# cqrs
+# symfony-cqrs
 CQRS with Symfony
 
 
@@ -18,5 +18,5 @@ Resources
 The code is licensed under the [MIT License][license]
 
 
-[patrykwozinski]: https://github.com/habibun/cqrs/tree/patrykwozinski
-[license]: https://github.com/habibun/cqrs/blob/main/LICENSE
+[patrykwozinski]: https://github.com/habibun/symfony-cqrs/tree/patrykwozinski
+[license]: https://github.com/habibun/symfony-cqrs/blob/main/LICENSE

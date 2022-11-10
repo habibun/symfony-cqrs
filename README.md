@@ -2,9 +2,9 @@
 CQRS with Symfony
 
 
-| Repository Branch                  | Messenger Version | Symfony Version | PHP Version     |
-|------------------------------------|-------------------|-----------------|-----------------|
-| [patrykwozinski][[patrykwozinski]] | `4.x`             | `4.x`           | `7.4` or higher |
+| Repository Branch                      | Messenger Version | Symfony Version | PHP Version     |
+|----------------------------------------|-------------------|-----------------|-----------------|
+| [patrykwozinski][[patrykwozinski-url]] | `4.x`             | `4.x`           | `7.4` or higher |
 
 
 Read [CQRS Docs](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
@@ -18,5 +18,5 @@ Resources
 The code is licensed under the [MIT License][license]
 
 
-[patrykwozinski]: https://github.com/habibun/symfony-cqrs/tree/patrykwozinski
+[patrykwozinski-url]: https://github.com/habibun/symfony-cqrs/tree/patrykwozinski
 [license]: https://github.com/habibun/symfony-cqrs/blob/main/LICENSE

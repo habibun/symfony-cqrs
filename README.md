@@ -16,8 +16,6 @@ Resources
 
 ## References
 
----
-
 #### Example applications
    - [sf4-cqrs-es-demo](https://github.com/anhchienhoang/sf4-cqrs-es-demo)
    - [symfony-5-es-cqrs-boilerplate](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate)

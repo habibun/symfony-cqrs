@@ -24,6 +24,7 @@ Resources
 
 #### Articles
    - [CQRS](https://martinfowler.com/bliki/CQRS.html) by Martin Fowler
+   - [CQRS Principle with Symfony Messenger](https://medium.com/beyn-technology/cqrs-principle-with-symfony-messenger-6c0fb2c28917) by Mert Simsek
 
 
 ## License

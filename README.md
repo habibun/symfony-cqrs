@@ -14,6 +14,19 @@ Resources
      - [Symfony Messenger component for CQRS applications](https://patrykwozinski.medium.com/symfony-messenger-component-for-cqrs-applications-4f450b2a9124) 
 
 
+## References
+
+#### Example applications
+   - [sf4-cqrs-es-demo](https://github.com/anhchienhoang/sf4-cqrs-es-demo)
+   - [symfony-5-es-cqrs-boilerplate](https://github.com/jorge07/symfony-5-es-cqrs-boilerplate)
+
+
+
+#### Articles
+   - [CQRS](https://martinfowler.com/bliki/CQRS.html) by Martin Fowler
+   - [CQRS Principle with Symfony Messenger](https://medium.com/beyn-technology/cqrs-principle-with-symfony-messenger-6c0fb2c28917) by Mert Simsek
+
+
 ## License
 The code is licensed under the [MIT License][license]
 

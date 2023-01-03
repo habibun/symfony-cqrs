@@ -10,7 +10,7 @@ CQRS with Symfony
 Read [CQRS Docs](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 
 Resources  
- - [`patrykwozinski`](https://github.com/habibun/cqrs/tree/messenger)
+ - [`patrykwozinski`](https://github.com/habibun/symfony-cqrs/tree/patrykwozinski)
      - [Symfony Messenger component for CQRS applications](https://patrykwozinski.medium.com/symfony-messenger-component-for-cqrs-applications-4f450b2a9124) 
 
 
